@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 .tor{
-    background-image: linear-gradient(rgba(251, 255, 0, 0.217),rgba(0, 0, 0, 0.144)),url("../Image/photo-shor.jpg");
+    background-image: linear-gradient(rgba(251, 255, 0, 0.217),rgba(0, 0, 0, 0.144)),url("Photo/photo-shor.jpg");
     background-repeat: no-repeat;
     background-position: center;
     width:800px ;
