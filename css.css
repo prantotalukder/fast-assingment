@@ -3,3 +3,42 @@
     padding:0;
     font-family: 'Poppins', sans-serif;
 }
+.tor{
+    background-image: linear-gradient(rgba(251, 255, 0, 0.217),rgba(0, 0, 0, 0.144)),url("../image/pro.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width:800px ;
+    height: 300px;
+    margin:auto
+    
+    
+}
+.con{
+    text-align: center;
+    color:white;
+    margin-bottom: 20px;
+    margin-top:5px
+}
+h1{
+    font-size:30px;
+    padding-top:40px;
+    padding-bottom: 10px;
+}
+section{
+    display: block;
+    height:;
+}
+.can{
+    text-align: center;
+    text-decoration: none;
+}
+.can a{
+    text-decoration: none;
+    background:linear-gradient(to right,rgb(255, 106, 0),rgb(0, 89, 255));
+    border-radius: 5px;
+    padding:4px;
+    font-weight: bold;
+    font-size: 13px;
+    color:white;
+
+}
