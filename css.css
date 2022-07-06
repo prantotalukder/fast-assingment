@@ -46,6 +46,9 @@ section{
     color:white;
 
 }
+.can a:hover{
+    background:linear-gradient(to right,rgba(0, 89, 255),rgba(255, 106, 0));
+}
 
 .div-3{
     background:orange;
@@ -70,7 +73,8 @@ section{
     color:white;
     padding:25px 25px ;
     background:linear-gradient(to right,rgb(255, 106, 0),rgb(0, 89, 255));
-    border-radius: 7px;}
+    border-radius: 7px;
+    box-shadow: 10px 10px 10px rgba(69, 63, 63, 0.404);}
 h5{
     padding-top: 40px;
     font-weight: bolder;
@@ -95,6 +99,10 @@ hr{
     background: linear-gradient(to right,rgb(255, 106, 0),rgb(0, 89, 255));
     padding:7px;
     border-radius: 10px;
+    color:white;
+}
+.div3 a:hover{
+    background:linear-gradient(to right,rgba(0, 89, 255),rgba(255, 106, 0));
 }
 #pap{
     background:#E6E6E6;
