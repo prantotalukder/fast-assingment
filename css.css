@@ -104,22 +104,22 @@ hr{
 .div3 a:hover{
     background:linear-gradient(to right,rgba(0, 89, 255),rgba(255, 106, 0));
 }
-#pap{
+#fast-div{
     background:#E6E6E6;
     width:800px;
-    
+    height: ;
     display: block;
     margin:auto
 }
-.pop{
+.fast-div-1{
     text-align: center;
     padding-top: 30px;
 
 }
-.pop p{
+.fast-div-1{
     color:rgb(124, 124, 124)
 }
-.pop0{
+.fast-div-2{
     display: flex;
     margin:7% 5% 0% 5%;
     height: 450px;
@@ -128,47 +128,47 @@ hr{
     
     
 }
-.pop1{
+.fast-div-3{
      background: #EDF5F6;
      padding-bottom:10px;
      margin:5% 2% 10% 0%;
 }
 
-.pop2{
+.fast-div-4{
     background: #FFEEEE;
     padding-bottom: 10px;
     margin:5% 2% 10% 0%;
 }
-.pop3{
+.fast-div-5{
     background:#FFF4D6;
     padding-bottom: 10px;
     margin:5% 2% 10% 0%;}
     
-.pop1 img{
+.fast-div-3 img{
     padding:5px;
 }
-.pop2 img{
+.fast-div-4 img{
     padding:7px;
 }
-.pop2 img{
+.fast-div-5 img{
     padding:5px;
 }
-.pop1 h2{
+.fast-div-3 h2{
     padding:7px
 }
-.pop2 h2{
+.fast-div-4 h2{
     padding:7px
 }
-.pop3 h2{
+.fast-div-5 h2{
     padding:7px
 }
 
-.pop1 p{
+.fast-div-3 p{
     padding:10px
 }
-.pop2 p{
+.fast-div-4 p{
     padding:10px
-}.pop3 p{
+}.fast-div-5 p{
     padding:10px
 }
 .cont{
@@ -194,4 +194,88 @@ hr{
 }
 .site-end{
     color:rgb(222, 46, 46);
+}
+#topar{
+    background:#E6E6E6;
+    height:auto ;
+    width: 800px;
+    display:block;
+}
+.img{
+ margin: 25px ;
+ ;
+    
+}
+.img img{
+    background-size: cover;
+    padding:10px 0px 0px;
+
+}
+.contant{
+    text-align: center;
+    background:#E6E6E6
+}
+.contant h1{
+    padding-top:5px
+}
+h6{
+    padding:5px;
+    text-align: center;
+}
+.new-tag {
+ padding:20px;
+}
+.new-tag a{
+    text-decoration: none;
+    background:linear-gradient(to right,rgb(255, 106, 0),rgb(0, 89, 255));
+    border-radius: 10px;
+    padding:5px;
+    color:white;
+    font-weight: bolder;
+}
+.new-tag a:hover{
+    background:linear-gradient(to right,rgba(0, 89, 255),rgba(255, 106, 0));
+}
+.email{
+    height: 250px;
+    width: 800px;
+    background:#E6E6E6;
+    text-align: center;
+}
+.normol h1{
+
+    padding-top:7px;
+    color: rgb(142, 137, 137);
+    
+}
+.normol h6{
+    padding-top: px;
+    font-weight: bolder;
+}
+.small{
+    background:#FCF2E0;
+    width:450px;
+    text-align: center;
+    margin: auto;
+    border-radius: 3px;
+    padding:35px
+}
+.simpol {
+    background:linear-gradient(to right,rgba(0, 89, 255),rgba(255, 106, 0)); 
+    width:80%;
+    text-align: center;
+    margin:auto;
+    border-radius: 5px;
+
+
+
+}
+.simpol {
+  color:white;} 
+.small a{
+margin-left: 50px;
+padding-left: 40px;
+color:white;
+text-decoration: none;
+    
 }
